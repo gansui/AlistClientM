@@ -1,0 +1,34 @@
+class NamedRouter {
+  static const root = "/index";
+  static const login = "/login";
+  static const home = "/home";
+  static const fileList = "/fileList";
+  static const settings = "/settings";
+  static const videoPlayer = "/videoPlayer";
+  static const about = "/about";
+  static const gallery = "/gallery";
+  static const audioPlayer = "/audioPlayer";
+  static const fileReader = "/fileReader";
+  static const web = "/web";
+  static const pdfReader = "/pdfReader";
+  static const uploadingFiles = "/uploadingFiles";
+  static const account = "/account";
+  static const downloadManager = "/downloadManager";
+  static const fileSearch = "/fileSearch";
+  static const cacheManager = "/cacheManager";
+  static const playerSettings = "/playerSettings";
+  static const txtReader = "/txtReader";
+  static const officeReader = "/officeReader";
+  static const markdownReader = "/markdownReader";
+  static const iptvPlayer = "/iptvPlayer";
+  static const iptv = "/iptv";
+  static const mediaKitPlayer = "/mediaKitPlayer";
+  static const editServer = "/editServer";
+  static const dislikedVideos = "/dislikedVideos";
+  static const searchFilterSettings = "/searchFilterSettings";
+  static const securityLockSettings = "/securityLockSettings";
+  static const securityLock = "/securityLock";
+  static const subtitleSettings = "/subtitleSettings";
+  static const tiktokPlayer = "/tiktokPlayer";
+  static const strmPlayer = "/strmPlayer";
+}

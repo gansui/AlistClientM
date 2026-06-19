@@ -1,0 +1,27 @@
+enum FileType {
+  audio,
+  code,
+  compress,
+  email,
+  excel,
+  flash,
+  html,
+  image,
+  keynote,
+  numbers,
+  others,
+  pages,
+  pdf,
+  ppt,
+  psd,
+  sketch,
+  txt,
+  video,
+  word,
+  folder,
+  file,
+  apk,
+  markdown,
+  iptv, // m3u/m3u8 playlist
+  strm, // .strm stream file (contains a URL pointing to real video stream)
+}
